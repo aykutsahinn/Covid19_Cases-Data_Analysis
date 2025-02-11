@@ -1,6 +1,5 @@
 # Data Analysis and Visualization of Covid 19 Cases
-https://www.ahef.org.tr/upload/eaa02e35-8033-4b26-94e6-66ed58bc5763.jpg
-
+![image](https://github.com/user-attachments/assets/426c37bb-5c06-42cd-83a9-7856b9826905)
 
 ## Transactions Made
 ✅ Data Analyzes were Conducted for Exploratory Purposes
